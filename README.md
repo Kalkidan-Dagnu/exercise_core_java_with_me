@@ -1,1 +1,1 @@
-# exercise_core_java_with_me
+# EXERCISE CORE JAVA WITH ME
